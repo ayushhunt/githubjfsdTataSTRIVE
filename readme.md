@@ -32,11 +32,12 @@ This side Aman Rawat
 
 
 What is Github Fork ?
+Amaan - GitHub fork allows us to work simultaneously on same project
 
 
 What is Branch in Git ?
-
+Amaan - GitBranch creates a copy of main branch and we can modify code without affecting the actual code.
 
 What does git add . exactly do ?
-
+Amaan - git add . adds files from our local machine to the github repository. 
 
