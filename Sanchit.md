@@ -8,10 +8,5 @@ HELO USER
 
 hello kushagr ;
 
-<<<<<<< Updated upstream
-
-git stash
-=======
 hd
 dsandu
->>>>>>> Stashed changes
