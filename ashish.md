@@ -1,1 +1,1 @@
-Hello, My name is Ashish and i am learning github folk commit push and then pull.git..
+Hello, My name is Ashish and i am learning github folk commit push and then pull.
