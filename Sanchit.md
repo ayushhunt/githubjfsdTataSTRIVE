@@ -7,5 +7,3 @@ HELO USER
 
 
 hello kushagr ;
-
-pus 60009
